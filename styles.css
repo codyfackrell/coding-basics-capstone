@@ -171,9 +171,12 @@ input {
 }
 
 #review-field {
-    padding-top: 3px;
-    padding-bottom: 70px;
-    font-size: 15px;
+  padding: 10px;
+  text-align: top;
+  font-size: 15px;
+  padding-top: 15px;
+  padding-bottom: 65px;
+  font-size: 15px;
 }
 
 ::placeholder {
